@@ -1,4 +1,4 @@
-### **Supply Guard AI **  
+### Supply Guard AI  
 
 - AI & Blockchain-Powered Security – Combines machine learning and blockchain to combat black money and counterfeit goods.  
 - Immutable Product Tracking – Uses QR codes and blockchain to track products from sourcing to consumer delivery.  
