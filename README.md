@@ -1,5 +1,6 @@
-### Supply Guard AI  
+# Supply Guard AI  
 
+### Features:
 - AI & Blockchain-Powered Security – Combines machine learning and blockchain to combat black money and counterfeit goods.  
 - Immutable Product Tracking – Uses QR codes and blockchain to track products from sourcing to consumer delivery.  
 - Suspicious Transaction Detection – Monitors financial transactions in real time to prevent fraud and illegal activities.  
@@ -24,3 +25,6 @@
 - Edge Computing for Faster Data Processing – Processes supply chain data closer to the source for real-time decision-making.  
 - Energy-Efficient Blockchain Implementation – Uses eco-friendly consensus mechanisms like PoS (Proof of Stake) to reduce energy consumption.  
 
+## Techstack:
+1) React
+2) 
